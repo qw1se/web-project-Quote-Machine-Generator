@@ -24,7 +24,7 @@ Quote Randomizer is a lightweight app with a minimal interface. Click a single b
 
 ## Installation & Local Run
 1. Clone the repository:
-   git clone https://github.com/qw1se/web-project1.git
+   git clone https:https://github.com/qw1se/web-project-Quote-Machine-Generator/tree/main
 2. Open `index.html` in your browser (double-click or serve via a local web server).
 
 Note: This is a static project — no backend or build step is required.
